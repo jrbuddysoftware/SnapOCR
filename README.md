@@ -1,4 +1,4 @@
-# Quick Snip OCR
+# SnapOCR
 
 Free screen text extractor for Windows 10/11.
 
@@ -16,7 +16,7 @@ Press **Ctrl+Shift+S** anywhere, drag to select a region, and get the text copie
 
 ## Install
 
-Download the latest MSI from the [Releases](https://github.com/jrbuddysoftware/QuickSnipOCR/releases) page.
+Download the latest MSI from the [Releases](https://github.com/jrbuddysoftware/SnapOCR/releases) page.
 
 Requires Windows 10/11 with [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/8.0).
 
